@@ -1,0 +1,13 @@
+prefix=B:/Learning-python-with-Gamini/venu/Library
+exec_prefix=B:/Learning-python-with-Gamini/venu/Library
+libdir=B:/Learning-python-with-Gamini/venu/Library/lib
+sharedlibdir=B:/Learning-python-with-Gamini/venu/Library/lib
+includedir=B:/Learning-python-with-Gamini/venu/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
