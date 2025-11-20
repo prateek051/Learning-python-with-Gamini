@@ -1,0 +1,4 @@
+This is my first line in a diary
+i created my first diary
+this is checking the read file
+yes
